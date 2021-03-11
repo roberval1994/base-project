@@ -17,6 +17,6 @@ const Home: React.FC = () => {
       </main>
     </div>
   )
-}https://github.com/roberval1994/base-project.git
+}
 
 export default Home
